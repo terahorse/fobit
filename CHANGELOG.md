@@ -3,10 +3,11 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
+## [0.8.0] - 2017-07-02
 ### Changed
-- Internal: manual deploy instead of Elastic Beanstalk
-- Internal: adjust to use port 80 in all cases
-- Internal: updating base docker image (from 8u151 to 8u171)
+- Internal: replacing AWS Elastic Beanstalk by manual deploy
+- Internal: replacing Travis-CI by Jenkins (partial)
+- Internal: updating base docker image (from JRE 8u151 to 8u171)
 
 ## [0.7.0] - 2017-06-25
 ### Changed

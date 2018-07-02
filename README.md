@@ -13,7 +13,7 @@ It is still in Alpha version so many things are not working.
 
 ## How to play anywhere using docker
 * Install [Docker](https://docs.docker.com/install)
-* Run `$ sudo docker run -d -p 80:80 --name fobit terahorse/fobit`
+* Run `$ sudo docker run -d -p 80:5000 --name fobit terahorse/fobit`
 * Access http://localhost
 
 ## Docker Images
