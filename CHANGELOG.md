@@ -5,6 +5,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ## [Unreleased]
 ### Fixed
 - UI: Fixing target of Docker Hub link
+- Internal: adjusts in automation
 
 ## [0.8.0] - 2018-07-02
 ### Changed
