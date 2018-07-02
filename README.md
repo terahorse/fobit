@@ -23,6 +23,7 @@ You can check also our releases notes in the CHANGELOG.md file.
 
 ## Rest API
 | Call | Method | Description | Example |
+| --- | --- | --- | --- |
 | **/api/version** | GET | Gets current version | */api/version* |
 | **/api/battle/{cardsCode}** | GET | Starts a new battle | */api/battle/0*, */api/battle/FFCCDD* |
 
