@@ -6,6 +6,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ### Changed
 - UI: Adding Magic Cards style
 - Internal: Removed workaround for GoDaddy /foo/bar url problem
+- Internal: Adding Spring Dev Tools only locally
 
 ## [0.10.0] - 2018-07-08
 ### Changed
