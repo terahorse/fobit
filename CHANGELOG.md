@@ -4,8 +4,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 ### Changed
-- Internal: Removed workaround for GoDaddy /foo/bar url problem
 - UI: Adding Magic Cards style
+- Internal: Removed workaround for GoDaddy /foo/bar url problem
 
 ## [0.10.0] - 2018-07-08
 ### Changed
