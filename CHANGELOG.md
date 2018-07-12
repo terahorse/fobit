@@ -4,7 +4,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 ### Changed
-- UI: Adding Magic Cards style
+- UI: Applying RPG style
 - Internal: Removed workaround for GoDaddy /foo/bar url problem
 - Internal: Adding Spring Dev Tools only locally
 - Internal: Compiling Bootstrap locally
