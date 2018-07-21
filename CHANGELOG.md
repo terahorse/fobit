@@ -4,6 +4,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [0.12.0] - Unreleased
 ### Changed
+- UI: Fixing report table
 - UX: Adding keyboard shortcuts
 - UI: Adding fog and some animations
 
