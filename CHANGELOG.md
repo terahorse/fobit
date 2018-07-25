@@ -7,6 +7,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - Performance: Removing font from external CDN 
 - UI: Fixing report table
 - UX: Adding keyboard shortcuts
+- UX: Adding icons
 - UI: Adding fog and some animations
 
 ## [0.11.0] - 2018-07-11
