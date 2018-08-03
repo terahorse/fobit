@@ -4,6 +4,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [0.13.0] - UNRELEASED
 ### Changed
+- UI: Preloading images
 - UI: Improvements in card selector
 
 ## [0.12.0] - 2018-07-29
