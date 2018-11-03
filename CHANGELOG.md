@@ -4,7 +4,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [0.14.0] - UNRELEASED
 - Game: Adjust in cards (split in levels / blocking high level cards)
-- UI: Improvements in card selector / Zoom
+- UI: Improvements in card selector, selected card and report
 
 ## [0.13.0] - 2018-10-15
 ### Changed
